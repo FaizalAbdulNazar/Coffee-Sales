@@ -10,23 +10,26 @@ Using these datas I created a dashboard to visualize my findings.
 First of all I had to clean the dataset, in this dataset itself you can see it have three sections, Orders, Customers and Products.
 
 Orders data showing the customer ID, product ID, Order ID and Order date and the quantity of coffee.
-![Orders](https://github.com/FaizalAbdulNazar/Coffee-Sales/assets/159605612/2803f45e-541e-4fd3-9f8d-618402543f63)
+![Orders_data](https://github.com/FaizalAbdulNazar/Coffee-Sales/assets/159605612/3c8287a5-8f95-4ed6-b53d-45531c1f4920)
 
 Customers data includes the customer ID, customer name and their email-ID and the country they reside.
-![Customers](https://github.com/FaizalAbdulNazar/Coffee-Sales/assets/159605612/b2b72520-5856-4394-9e1c-3c7689ff50a1)
+![Customers_data](https://github.com/FaizalAbdulNazar/Coffee-Sales/assets/159605612/14d2a6fe-fcb0-4fb5-a2c6-7cea6bbacc71)
 
 Products data is about the product ID, coffee types, price and profit from the sales.
-![Products](https://github.com/FaizalAbdulNazar/Coffee-Sales/assets/159605612/7c829e6c-69c1-4bbe-a9ce-955e6129ca40)
+![Products_data](https://github.com/FaizalAbdulNazar/Coffee-Sales/assets/159605612/d94303c6-f8fa-4526-8525-d5ddb0580051)
 
 I set the data in a more understandable format by including the order ID, Customer ID, Product ID, Customer Name, Roast Type, Unit Price etc in a single dataset.
 
-To make this happen I used functions like Xlookup,  to get the data from the Customers data to the orders data.
+To make this happen I used functions like Xlookup, to get the data from the Customers data to the orders data.
+<img width="960" alt="Xlookup" src="https://github.com/FaizalAbdulNazar/Coffee-Sales/assets/159605612/6017536d-02f9-4a05-9e67-7c3ad7a548df">
 
 Then I used INDEXMATCH to get the data from Products data to Orders dataset.
+<img width="960" alt="INDEXMATCH" src="https://github.com/FaizalAbdulNazar/Coffee-Sales/assets/159605612/02e14299-5906-4073-993d-2aba88a64417">
 
 This helped me make a much cleaner and visually appealing dataset.
 
 After this then I moved on to creating Pivot Tables to visualize the foundings.
+
 
 With the help of the Pivot tables I created Pivot charts.
 
