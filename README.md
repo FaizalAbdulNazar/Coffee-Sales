@@ -30,9 +30,17 @@ This helped me make a much cleaner and visually appealing dataset.
 
 After this then I moved on to creating Pivot Tables to visualize the foundings.
 
+This showing the total sales over time.
+![Pivot_Chart1](https://github.com/FaizalAbdulNazar/Coffee-Sales/assets/159605612/c0e986aa-cc85-458f-8f88-bd8fcb8060c2)
+
+Sales by country.
+![Salesbycountry](https://github.com/FaizalAbdulNazar/Coffee-Sales/assets/159605612/e9ff04e9-7942-4b4f-83d7-4d7c9b5e1a63)
+
+Top 5 Customers.
+![Top5customers](https://github.com/FaizalAbdulNazar/Coffee-Sales/assets/159605612/4bf65b57-c621-4ef3-9bf0-f21104a584fa)
 
 With the help of the Pivot tables I created Pivot charts.
 
 I build a dashboard by cobining all the pivot charts I created.
 
-I have shared the dataset and the dashboard. You can see the formulas I used in the dataset.
+I have shared the dataset and the dashboard. You can also see the formulas I used in the dataset.
