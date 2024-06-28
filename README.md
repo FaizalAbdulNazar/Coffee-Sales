@@ -1,4 +1,5 @@
 This is a project showcasing the coffee sales from the year 2021-23.
+
 From this dataset using MS Excel, I found out the total sales over time. Also which country saw the highest sales in coffee.
 I also tried to look for the top 5 customers inputting different scenarios like, the coffee size, roast type etc.
 Using these datas I created a dashboard to visualize my findings.
