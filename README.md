@@ -1,4 +1,5 @@
-#COFFEE SALES
+# COFFEE SALES
+
 This is a project showcasing the coffee sales from the year 2019-22.
 
 From this dataset using MS Excel, I found out the total sales over time. Also which country saw the highest sales in coffee.
